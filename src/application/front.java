@@ -45,6 +45,9 @@ public class front {
 		}
 		
 		
+		System.out.println("oi gui");
+		
+		
 		
 		
 		 sc.close();
